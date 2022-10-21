@@ -1,0 +1,16 @@
+/* CSS syntax:
+1. Area of customization( element, class attribute, or id attribute)
+2. :
+3. Value of the customization
+4. ;
+ */
+body {
+
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
