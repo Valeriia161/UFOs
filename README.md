@@ -22,3 +22,7 @@ After that press the Tab or Enter button to see suggested results.
 
 ## ` Summary`
 
+
+Filter criteria are case sensitive and the dataset is entirely lower case. It is logical that  country and state abbreviations are capitalized and this generates some issues. <br/>
+I would recommend to make the criteria filtering more forgivable by eliminating case sensitivity and add a button to clear all criteria from the entry fields.
+
